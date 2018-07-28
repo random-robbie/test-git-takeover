@@ -1,0 +1,15 @@
+{
+  "name": "test-git-takeover",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
